@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: ProjectSettings
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"dictionary":{"favoriteUnitOptions":{"$content":[],"$type":"System.Collections.Generic.HashSet`1[[System.String,
+    _json: '{"dictionary":{"favoriteUnitOptions":{"$content":["UnityEngine.Transform.position@get","UnityEngine.Transform.position@set","Bolt.GenericAdd","UnityEngine.Input.GetAxis(System.String)@any","UnityEngine.Input.GetAxisRaw(System.String)@any","System.Single@literal","UnityEngine.LayerMask@literal","UnityEngine.RaycastHit2D.collider@get","UnityEngine.Vector3.x@get","UnityEngine.Vector3.y@get","UnityEngine.Vector2..ctor(System.SingleSystem.Single)@any","Bolt.NullCheck","Bolt.NotEqual","Bolt.Branch","UnityEngine.Animator.SetBool(System.StringSystem.Boolean)@any","Bolt.Negate","Bolt.Less","UnityEngine.SpriteRenderer.flipX@get","UnityEngine.SpriteRenderer.flipX@set"],"$type":"System.Collections.Generic.HashSet`1[[System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"projectSetupCompleted":{"$content":true,"$type":"System.Boolean"},"savedVersion":{"major":1,"minor":4,"patch":13,"label":null,"increment":0,"$type":"Ludiq.SemanticVersion"}}}'
     _objectReferences: []
