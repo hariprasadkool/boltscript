@@ -14,7 +14,7 @@ TagManager:
   - 
   - 
   - Floor
-  - 
+  - Hazards
   - 
   - 
   - 
@@ -38,6 +38,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: BackGround
+    uniqueID: 3309306229
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 69560887
+    locked: 0
+  - name: Hazards
+    uniqueID: 2496944113
     locked: 0
